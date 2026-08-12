@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/patysosacosta/doingpak/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/patysosacosta/doingpak/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of doingpak is to provides functions for learning about your R
