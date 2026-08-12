@@ -5,6 +5,3 @@ lib_summary <- function() {
   names(pkg_df) <- c("Library", "n_packages")
   pkg_df
 }
-
-
-library(devtools)
