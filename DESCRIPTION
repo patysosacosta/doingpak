@@ -8,7 +8,7 @@ Description: Provides functions for learning about your R libraries, and the
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/patysosacosta/doingpak
+URL: https://github.com/patysosacosta/doingpak, https://patysosacosta.github.io/doingpak/
 BugReports: https://github.com/patysosacosta/doingpak/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
