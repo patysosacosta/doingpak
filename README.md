@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of doingpak is to …
+The goal of doingpak is to provides functions for learning about your R
+libraries, and the packages you have installed.
 
 ## Installation
 
