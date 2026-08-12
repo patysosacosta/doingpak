@@ -1,5 +1,5 @@
 Package: doingpak
-Title: What the Package Does (One Line, Title Case)
+Title: Explore Your R Libraries
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
@@ -8,6 +8,6 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 8.1.0
 URL: https://github.com/patysosacosta/doingpak
 BugReports: https://github.com/patysosacosta/doingpak/issues
+Config/roxygen2/version: 8.1.0
